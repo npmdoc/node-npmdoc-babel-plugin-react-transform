@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "babel-plugin-react-transform",
-    "description": "api documentation for [babel-plugin-react-transform (v2.0.2)](https://github.com/gaearon/babel-plugin-react-transform#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-react-transform.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-react-transform) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-react-transform.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-react-transform)",
+    "description": "#### api documentation for  [babel-plugin-react-transform (v2.0.2)](https://github.com/gaearon/babel-plugin-react-transform#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-react-transform.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-react-transform) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-react-transform.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-react-transform)",
     "devDependencies": {
         "babel-plugin-react-transform": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
