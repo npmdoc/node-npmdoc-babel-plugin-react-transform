@@ -1,115 +1,115 @@
 <svg height="1790" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1790" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 07:48:53 +0000    38468 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 07:48:53 +0000     1423 bytes  CODE_OF_CONDUCT.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 07:48:53 +0000      946 bytes  PATRONS.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 07:48:53 +0000     9390 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 07:48:53 +0000    12393 bytes  lib/index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 07:48:53 +0000     3249 bytes  package.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 07:48:53 +0000      108 bytes  test/fixtures/code-call-expression-with-render-m\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 07:49:56 +0000    38468 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 07:49:56 +0000     1423 bytes  CODE_OF_CONDUCT.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 07:49:56 +0000      946 bytes  PATRONS.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 07:49:56 +0000     9390 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 07:49:56 +0000    12393 bytes  lib/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 07:49:56 +0000     3249 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 07:49:56 +0000      108 bytes  test/fixtures/code-call-expression-with-render-m\</tspan>
 <tspan x="10" y="138">ethod/actual.js</tspan>
-<tspan x="10" y="154">  7.  2017-04-19 07:48:53 +0000      110 bytes  test/fixtures/code-call-expression-with-render-m\</tspan>
+<tspan x="10" y="154">  7.  2017-04-19 07:49:56 +0000      110 bytes  test/fixtures/code-call-expression-with-render-m\</tspan>
 <tspan x="10" y="170">ethod/expected.js</tspan>
-<tspan x="10" y="186">  8.  2017-04-19 07:48:53 +0000      112 bytes  test/fixtures/code-class-expression-extends-reac\</tspan>
+<tspan x="10" y="186">  8.  2017-04-19 07:49:56 +0000      112 bytes  test/fixtures/code-class-expression-extends-reac\</tspan>
 <tspan x="10" y="202">t-component-with-render-method/actual.js</tspan>
-<tspan x="10" y="218">  9.  2017-04-19 07:48:53 +0000      529 bytes  test/fixtures/code-class-expression-extends-reac\</tspan>
+<tspan x="10" y="218">  9.  2017-04-19 07:49:56 +0000      529 bytes  test/fixtures/code-class-expression-extends-reac\</tspan>
 <tspan x="10" y="234">t-component-with-render-method/expected.js</tspan>
-<tspan x="10" y="250"> 10.  2017-04-19 07:48:53 +0000       82 bytes  test/fixtures/code-class-expression/actual.js</tspan>
-<tspan x="10" y="266"> 11.  2017-04-19 07:48:53 +0000       82 bytes  test/fixtures/code-class-expression/expected.js</tspan>
-<tspan x="10" y="282"> 12.  2017-04-19 07:48:53 +0000       88 bytes  test/fixtures/code-class-extends-component-with-\</tspan>
+<tspan x="10" y="250"> 10.  2017-04-19 07:49:56 +0000       82 bytes  test/fixtures/code-class-expression/actual.js</tspan>
+<tspan x="10" y="266"> 11.  2017-04-19 07:49:56 +0000       82 bytes  test/fixtures/code-class-expression/expected.js</tspan>
+<tspan x="10" y="282"> 12.  2017-04-19 07:49:56 +0000       88 bytes  test/fixtures/code-class-extends-component-with-\</tspan>
 <tspan x="10" y="298">render-method/actual.js</tspan>
-<tspan x="10" y="314"> 13.  2017-04-19 07:48:53 +0000      471 bytes  test/fixtures/code-class-extends-component-with-\</tspan>
+<tspan x="10" y="314"> 13.  2017-04-19 07:49:56 +0000      471 bytes  test/fixtures/code-class-extends-component-with-\</tspan>
 <tspan x="10" y="330">render-method/expected.js</tspan>
-<tspan x="10" y="346"> 14.  2017-04-19 07:48:53 +0000       52 bytes  test/fixtures/code-class-extends-react-component\</tspan>
+<tspan x="10" y="346"> 14.  2017-04-19 07:49:56 +0000       52 bytes  test/fixtures/code-class-extends-react-component\</tspan>
 <tspan x="10" y="362">-with-render-method/actual.js</tspan>
-<tspan x="10" y="378"> 15.  2017-04-19 07:48:53 +0000      434 bytes  test/fixtures/code-class-extends-react-component\</tspan>
+<tspan x="10" y="378"> 15.  2017-04-19 07:49:56 +0000      434 bytes  test/fixtures/code-class-extends-react-component\</tspan>
 <tspan x="10" y="394">-with-render-method/expected.js</tspan>
-<tspan x="10" y="410"> 16.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/code-class-extends-react-component\</tspan>
+<tspan x="10" y="410"> 16.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/code-class-extends-react-component\</tspan>
 <tspan x="10" y="426">/actual.js</tspan>
-<tspan x="10" y="442"> 17.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/code-class-extends-react-component\</tspan>
+<tspan x="10" y="442"> 17.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/code-class-extends-react-component\</tspan>
 <tspan x="10" y="458">/expected.js</tspan>
-<tspan x="10" y="474"> 18.  2017-04-19 07:48:53 +0000       28 bytes  test/fixtures/code-class-with-render-method/actu\</tspan>
+<tspan x="10" y="474"> 18.  2017-04-19 07:49:56 +0000       28 bytes  test/fixtures/code-class-with-render-method/actu\</tspan>
 <tspan x="10" y="490">al.js</tspan>
-<tspan x="10" y="506"> 19.  2017-04-19 07:48:53 +0000       28 bytes  test/fixtures/code-class-with-render-method/expe\</tspan>
+<tspan x="10" y="506"> 19.  2017-04-19 07:49:56 +0000       28 bytes  test/fixtures/code-class-with-render-method/expe\</tspan>
 <tspan x="10" y="522">cted.js</tspan>
-<tspan x="10" y="538"> 20.  2017-04-19 07:48:53 +0000       88 bytes  test/fixtures/code-class-within-function-extends\</tspan>
+<tspan x="10" y="538"> 20.  2017-04-19 07:49:56 +0000       88 bytes  test/fixtures/code-class-within-function-extends\</tspan>
 <tspan x="10" y="554">-react-component-with-render-method/actual.js</tspan>
-<tspan x="10" y="570"> 21.  2017-04-19 07:48:53 +0000      482 bytes  test/fixtures/code-class-within-function-extends\</tspan>
+<tspan x="10" y="570"> 21.  2017-04-19 07:49:56 +0000      482 bytes  test/fixtures/code-class-within-function-extends\</tspan>
 <tspan x="10" y="586">-react-component-with-render-method/expected.js</tspan>
-<tspan x="10" y="602"> 22.  2017-04-19 07:48:53 +0000       69 bytes  test/fixtures/code-class-within-function/actual.\</tspan>
+<tspan x="10" y="602"> 22.  2017-04-19 07:49:56 +0000       69 bytes  test/fixtures/code-class-within-function/actual.\</tspan>
 <tspan x="10" y="618">js</tspan>
-<tspan x="10" y="634"> 23.  2017-04-19 07:48:53 +0000       70 bytes  test/fixtures/code-class-within-function/expecte\</tspan>
+<tspan x="10" y="634"> 23.  2017-04-19 07:49:56 +0000       70 bytes  test/fixtures/code-class-within-function/expecte\</tspan>
 <tspan x="10" y="650">d.js</tspan>
-<tspan x="10" y="666"> 24.  2017-04-19 07:48:53 +0000       60 bytes  test/fixtures/code-class-without-name-extends-re\</tspan>
+<tspan x="10" y="666"> 24.  2017-04-19 07:49:56 +0000       60 bytes  test/fixtures/code-class-without-name-extends-re\</tspan>
 <tspan x="10" y="682">act-component-with-render-method/actual.js</tspan>
-<tspan x="10" y="698"> 25.  2017-04-19 07:48:53 +0000      418 bytes  test/fixtures/code-class-without-name-extends-re\</tspan>
+<tspan x="10" y="698"> 25.  2017-04-19 07:49:56 +0000      418 bytes  test/fixtures/code-class-without-name-extends-re\</tspan>
 <tspan x="10" y="714">act-component-with-render-method/expected.js</tspan>
-<tspan x="10" y="730"> 26.  2017-04-19 07:48:53 +0000       45 bytes  test/fixtures/code-class-without-name/actual.js</tspan>
-<tspan x="10" y="746"> 27.  2017-04-19 07:48:53 +0000       46 bytes  test/fixtures/code-class-without-name/expected.j\</tspan>
+<tspan x="10" y="730"> 26.  2017-04-19 07:49:56 +0000       45 bytes  test/fixtures/code-class-without-name/actual.js</tspan>
+<tspan x="10" y="746"> 27.  2017-04-19 07:49:56 +0000       46 bytes  test/fixtures/code-class-without-name/expected.j\</tspan>
 <tspan x="10" y="762">s</tspan>
-<tspan x="10" y="778"> 28.  2017-04-19 07:48:53 +0000      335 bytes  test/fixtures/code-exports/actual.js</tspan>
-<tspan x="10" y="794"> 29.  2017-04-19 07:48:53 +0000      341 bytes  test/fixtures/code-exports/expected.js</tspan>
-<tspan x="10" y="810"> 30.  2017-04-19 07:48:53 +0000      136 bytes  test/fixtures/code-ignore/actual.js</tspan>
-<tspan x="10" y="826"> 31.  2017-04-19 07:48:53 +0000      136 bytes  test/fixtures/code-ignore/expected.js</tspan>
-<tspan x="10" y="842"> 32.  2017-04-19 07:48:53 +0000       65 bytes  test/fixtures/code-react-create-class-with-dynam\</tspan>
+<tspan x="10" y="778"> 28.  2017-04-19 07:49:56 +0000      335 bytes  test/fixtures/code-exports/actual.js</tspan>
+<tspan x="10" y="794"> 29.  2017-04-19 07:49:56 +0000      341 bytes  test/fixtures/code-exports/expected.js</tspan>
+<tspan x="10" y="810"> 30.  2017-04-19 07:49:56 +0000      136 bytes  test/fixtures/code-ignore/actual.js</tspan>
+<tspan x="10" y="826"> 31.  2017-04-19 07:49:56 +0000      136 bytes  test/fixtures/code-ignore/expected.js</tspan>
+<tspan x="10" y="842"> 32.  2017-04-19 07:49:56 +0000       65 bytes  test/fixtures/code-react-create-class-with-dynam\</tspan>
 <tspan x="10" y="858">ic-display-name/actual.js</tspan>
-<tspan x="10" y="874"> 33.  2017-04-19 07:48:53 +0000       65 bytes  test/fixtures/code-react-create-class-with-dynam\</tspan>
+<tspan x="10" y="874"> 33.  2017-04-19 07:49:56 +0000       65 bytes  test/fixtures/code-react-create-class-with-dynam\</tspan>
 <tspan x="10" y="890">ic-display-name/expected.js</tspan>
-<tspan x="10" y="906"> 34.  2017-04-19 07:48:53 +0000      195 bytes  test/fixtures/code-react-create-class-with-rende\</tspan>
+<tspan x="10" y="906"> 34.  2017-04-19 07:49:56 +0000      195 bytes  test/fixtures/code-react-create-class-with-rende\</tspan>
 <tspan x="10" y="922">r-method/actual.js</tspan>
-<tspan x="10" y="938"> 35.  2017-04-19 07:48:53 +0000      662 bytes  test/fixtures/code-react-create-class-with-rende\</tspan>
+<tspan x="10" y="938"> 35.  2017-04-19 07:49:56 +0000      662 bytes  test/fixtures/code-react-create-class-with-rende\</tspan>
 <tspan x="10" y="954">r-method/expected.js</tspan>
-<tspan x="10" y="970"> 36.  2017-04-19 07:48:53 +0000      100 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
+<tspan x="10" y="970"> 36.  2017-04-19 07:49:56 +0000      100 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
 <tspan x="10" y="986">g-literal-display-name-with-render-method/actual.js</tspan>
-<tspan x="10" y="1002"> 37.  2017-04-19 07:48:53 +0000      498 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
+<tspan x="10" y="1002"> 37.  2017-04-19 07:49:56 +0000      498 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
 <tspan x="10" y="1018">g-literal-display-name-with-render-method/expected.js</tspan>
-<tspan x="10" y="1034"> 38.  2017-04-19 07:48:53 +0000       74 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
+<tspan x="10" y="1034"> 38.  2017-04-19 07:49:56 +0000       74 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
 <tspan x="10" y="1050">g-literal-display-name/actual.js</tspan>
-<tspan x="10" y="1066"> 39.  2017-04-19 07:48:53 +0000       74 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
+<tspan x="10" y="1066"> 39.  2017-04-19 07:49:56 +0000       74 bytes  test/fixtures/code-react-create-class-with-strin\</tspan>
 <tspan x="10" y="1082">g-literal-display-name/expected.js</tspan>
-<tspan x="10" y="1098"> 40.  2017-04-19 07:48:53 +0000       35 bytes  test/fixtures/code-react-create-class-without-di\</tspan>
+<tspan x="10" y="1098"> 40.  2017-04-19 07:49:56 +0000       35 bytes  test/fixtures/code-react-create-class-without-di\</tspan>
 <tspan x="10" y="1114">splay-name/actual.js</tspan>
-<tspan x="10" y="1130"> 41.  2017-04-19 07:48:53 +0000       35 bytes  test/fixtures/code-react-create-class-without-di\</tspan>
+<tspan x="10" y="1130"> 41.  2017-04-19 07:49:56 +0000       35 bytes  test/fixtures/code-react-create-class-without-di\</tspan>
 <tspan x="10" y="1146">splay-name/expected.js</tspan>
-<tspan x="10" y="1162"> 42.  2017-04-19 07:48:53 +0000       82 bytes  test/fixtures/code-react-create-class/actual.js</tspan>
-<tspan x="10" y="1178"> 43.  2017-04-19 07:48:53 +0000       81 bytes  test/fixtures/code-react-create-class/expected.j\</tspan>
+<tspan x="10" y="1162"> 42.  2017-04-19 07:49:56 +0000       82 bytes  test/fixtures/code-react-create-class/actual.js</tspan>
+<tspan x="10" y="1178"> 43.  2017-04-19 07:49:56 +0000       81 bytes  test/fixtures/code-react-create-class/expected.j\</tspan>
 <tspan x="10" y="1194">s</tspan>
-<tspan x="10" y="1210"> 44.  2017-04-19 07:48:53 +0000      151 bytes  test/fixtures/options-custom-factories-with-rend\</tspan>
+<tspan x="10" y="1210"> 44.  2017-04-19 07:49:56 +0000      151 bytes  test/fixtures/options-custom-factories-with-rend\</tspan>
 <tspan x="10" y="1226">er-method/actual.js</tspan>
-<tspan x="10" y="1242"> 45.  2017-04-19 07:48:53 +0000      580 bytes  test/fixtures/options-custom-factories-with-rend\</tspan>
+<tspan x="10" y="1242"> 45.  2017-04-19 07:49:56 +0000      580 bytes  test/fixtures/options-custom-factories-with-rend\</tspan>
 <tspan x="10" y="1258">er-method/expected.js</tspan>
-<tspan x="10" y="1274"> 46.  2017-04-19 07:48:53 +0000       99 bytes  test/fixtures/options-custom-factories/actual.js</tspan>
-<tspan x="10" y="1290"> 47.  2017-04-19 07:48:53 +0000       99 bytes  test/fixtures/options-custom-factories/expected.\</tspan>
+<tspan x="10" y="1274"> 46.  2017-04-19 07:49:56 +0000       99 bytes  test/fixtures/options-custom-factories/actual.js</tspan>
+<tspan x="10" y="1290"> 47.  2017-04-19 07:49:56 +0000       99 bytes  test/fixtures/options-custom-factories/expected.\</tspan>
 <tspan x="10" y="1306">js</tspan>
-<tspan x="10" y="1322"> 48.  2017-04-19 07:48:53 +0000      101 bytes  test/fixtures/options-custom-super-classes-with-\</tspan>
+<tspan x="10" y="1322"> 48.  2017-04-19 07:49:56 +0000      101 bytes  test/fixtures/options-custom-super-classes-with-\</tspan>
 <tspan x="10" y="1338">render-method/actual.js</tspan>
-<tspan x="10" y="1354"> 49.  2017-04-19 07:48:53 +0000      557 bytes  test/fixtures/options-custom-super-classes-with-\</tspan>
+<tspan x="10" y="1354"> 49.  2017-04-19 07:49:56 +0000      557 bytes  test/fixtures/options-custom-super-classes-with-\</tspan>
 <tspan x="10" y="1370">render-method/expected.js</tspan>
-<tspan x="10" y="1386"> 50.  2017-04-19 07:48:53 +0000       71 bytes  test/fixtures/options-custom-super-classes/actua\</tspan>
+<tspan x="10" y="1386"> 50.  2017-04-19 07:49:56 +0000       71 bytes  test/fixtures/options-custom-super-classes/actua\</tspan>
 <tspan x="10" y="1402">l.js</tspan>
-<tspan x="10" y="1418"> 51.  2017-04-19 07:48:53 +0000       71 bytes  test/fixtures/options-custom-super-classes/expec\</tspan>
+<tspan x="10" y="1418"> 51.  2017-04-19 07:49:56 +0000       71 bytes  test/fixtures/options-custom-super-classes/expec\</tspan>
 <tspan x="10" y="1434">ted.js</tspan>
-<tspan x="10" y="1450"> 52.  2017-04-19 07:48:53 +0000       52 bytes  test/fixtures/options-multiple-transforms-with-r\</tspan>
+<tspan x="10" y="1450"> 52.  2017-04-19 07:49:56 +0000       52 bytes  test/fixtures/options-multiple-transforms-with-r\</tspan>
 <tspan x="10" y="1466">ender-method/actual.js</tspan>
-<tspan x="10" y="1482"> 53.  2017-04-19 07:48:53 +0000      626 bytes  test/fixtures/options-multiple-transforms-with-r\</tspan>
+<tspan x="10" y="1482"> 53.  2017-04-19 07:49:56 +0000      626 bytes  test/fixtures/options-multiple-transforms-with-r\</tspan>
 <tspan x="10" y="1498">ender-method/expected.js</tspan>
-<tspan x="10" y="1514"> 54.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-multiple-transforms/actual\</tspan>
+<tspan x="10" y="1514"> 54.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-multiple-transforms/actual\</tspan>
 <tspan x="10" y="1530">.js</tspan>
-<tspan x="10" y="1546"> 55.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-multiple-transforms/expect\</tspan>
+<tspan x="10" y="1546"> 55.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-multiple-transforms/expect\</tspan>
 <tspan x="10" y="1562">ed.js</tspan>
-<tspan x="10" y="1578"> 56.  2017-04-19 07:48:53 +0000       52 bytes  test/fixtures/options-with-imports-with-render-m\</tspan>
+<tspan x="10" y="1578"> 56.  2017-04-19 07:49:56 +0000       52 bytes  test/fixtures/options-with-imports-with-render-m\</tspan>
 <tspan x="10" y="1594">ethod/actual.js</tspan>
-<tspan x="10" y="1610"> 57.  2017-04-19 07:48:53 +0000      514 bytes  test/fixtures/options-with-imports-with-render-m\</tspan>
+<tspan x="10" y="1610"> 57.  2017-04-19 07:49:56 +0000      514 bytes  test/fixtures/options-with-imports-with-render-m\</tspan>
 <tspan x="10" y="1626">ethod/expected.js</tspan>
-<tspan x="10" y="1642"> 58.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-with-imports/actual.js</tspan>
-<tspan x="10" y="1658"> 59.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-with-imports/expected.js</tspan>
-<tspan x="10" y="1674"> 60.  2017-04-19 07:48:53 +0000       52 bytes  test/fixtures/options-with-locals-with-render-me\</tspan>
+<tspan x="10" y="1642"> 58.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-with-imports/actual.js</tspan>
+<tspan x="10" y="1658"> 59.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-with-imports/expected.js</tspan>
+<tspan x="10" y="1674"> 60.  2017-04-19 07:49:56 +0000       52 bytes  test/fixtures/options-with-locals-with-render-me\</tspan>
 <tspan x="10" y="1690">thod/actual.js</tspan>
-<tspan x="10" y="1706"> 61.  2017-04-19 07:48:53 +0000      449 bytes  test/fixtures/options-with-locals-with-render-me\</tspan>
+<tspan x="10" y="1706"> 61.  2017-04-19 07:49:56 +0000      449 bytes  test/fixtures/options-with-locals-with-render-me\</tspan>
 <tspan x="10" y="1722">thod/expected.js</tspan>
-<tspan x="10" y="1738"> 62.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-with-locals/actual.js</tspan>
-<tspan x="10" y="1754"> 63.  2017-04-19 07:48:53 +0000       37 bytes  test/fixtures/options-with-locals/expected.js</tspan>
-<tspan x="10" y="1770"> 64.  2017-04-19 07:48:53 +0000      981 bytes  test/index.js</tspan>
+<tspan x="10" y="1738"> 62.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-with-locals/actual.js</tspan>
+<tspan x="10" y="1754"> 63.  2017-04-19 07:49:56 +0000       37 bytes  test/fixtures/options-with-locals/expected.js</tspan>
+<tspan x="10" y="1770"> 64.  2017-04-19 07:49:56 +0000      981 bytes  test/index.js</tspan>
 </text>
 </svg>
